@@ -46,7 +46,7 @@ TfidfVectorizer / CountVectorizer: For converting text into numerical features.
 Matplotlib / Seaborn: For visualization of results, confusion matrix, etc.
 
 
-## Editor Platform Used
+## Editor Platform Used :
 The project was implemented in a Jupyter Notebook (.ipynb) format. Jupyter Notebook is an open-source web application that allows the creation and sharing of documents containing live code, visualizations, and narrative text. It is commonly used in:
 
 Anaconda Navigator
@@ -57,7 +57,7 @@ Jupyter Lab or VS Code with Jupyter extension
 
 This platform is ideal for machine learning projects, as it supports iterative development and easy visualization.
 
-## Real-Life Applications of Sentiment Analysis
+## Real-Life Applications of Sentiment Analysis :
 Sentiment Analysis has widespread real-world applications across many domains:
 
 Social Media Monitoring: Brands analyze tweets, comments, and posts to gauge public opinion.
